@@ -1,4 +1,4 @@
-# Mrash Star
+# Mrash Star | advertising
 
 This application, **Mrash Star**, is a tool developed by Mrash for educational purposes only. It provides a feature to send ads through NGL (NOT GONNA LIE) and includes a built-in Instagram follower scraper. Please note that this tool is intended for educational purposes and should be used responsibly and within legal boundaries.
 
